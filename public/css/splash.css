@@ -1,0 +1,68 @@
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+
+    border-line: 2px ;
+
+    padding: 90px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 40px 5px;
+    cursor: pointer;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/* pink*/
+.btn {
+  border-color: #DB7093;
+  color: #DB7093;
+}
+.btn:hover {
+  background-color: #DB7093;
+  color: white;
+}
+
+
+.container{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+.catalogue{
+	margin-right:30px;
+}
+.lucky{
+	margin-right:30px;}
+
+.button1:hover
+{opacity: 2
+background-color:pink;
+}
+
+.bg-image {
+  background-image: url("https://images.pexels.com/photos/169193/pexels-photo-169193.jpeg?cs=srgb&dl=beach-bunch-of-flowers-celebration-169193.jpg&fm=jpg");
+
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1
+{ font-family: Arial, Helvetica, sans-serif;
+text-align:center;
+top: 20%;
+margin-top:110px;
+color: #DB7093;
+}

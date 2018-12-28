@@ -1,0 +1,26 @@
+.card img {
+  max-height: 250px;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.card .description {
+  color: grey;
+}
+
+.discountprice {
+  font-weight: bold;
+  font-size: 18px;
+  color: green;
+}
+
+.successCheckout {
+  background-color: green;
+}
+
+.promodiscount {
+  color: green;
+}
